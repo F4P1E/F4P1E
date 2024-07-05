@@ -46,7 +46,7 @@ I'm a fourth year software engineering undergraduate at RMIT University and I'm 
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>Sometime following your heart. Means losing your mind.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/dong-duong-820481147/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
