@@ -1,13 +1,13 @@
 ![](https://github.com/F4P1E)
 
-### Hi there 👋 I'm Duonng Phu Dong,
+### Hi there 👋 I'm Duong Phu Dong,
 
-I'm a fourth year software engineering undergraduate at RMIT University and I'm also into Artificial Intelligence.
+I'm a fourth-year software engineering undergraduate at RMIT University and I'm also into Artificial Intelligence.
 - 🔭 I’m currently studying:
 	- Generative Artificial Intelligence 
 	- Web Application Development
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Tech, Science, anything that interests you.
+- 💬 Talk to me about Space, Tech, Science, or anything that interests you.
 
 ## My Skills Include
 
