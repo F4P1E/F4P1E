@@ -5,7 +5,7 @@
 I'm a fourth-year software engineering undergraduate at RMIT University and I'm also into Artificial Intelligence.
 - 🔭 I’m currently studying:
 	- Generative Artificial Intelligence 
-	- Web Application Development
+	- Full Stack Development
 - :bulb: I'm interested in all things data: **Artificial Intelligence, Cloud, Machine Learning and Deep Learning**
 - 💬 Talk to me about Space, Tech, Science, or anything that interests you.
 
