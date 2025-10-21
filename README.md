@@ -2,8 +2,6 @@
 
 ### Software Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=F4P1E" alt="F4P1E" /></a> </p>
-
 - 🔭 I'm currently working on **Syntax Society Community - All in One Project**
 
 - 🌱 I'm currently learning **Software Engineering: Process and Tools & Further Programming**
