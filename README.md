@@ -1,16 +1,16 @@
-# Hi 👋, I'm Duong Phu Dong
+# Hi, I'm Duong Phu Dong
 
 ### Software Engineering
 
-- 🔭 I'm currently working on **Syntax Society Community - All in One Project**
+- I'm currently working on **Syntax Society Community - All in One Project**
 
-- 🌱 I'm currently learning **Software Engineering: Process and Tools & Further Programming**
+- I'm currently learning **Software Engineering: Process and Tools & Further Programming**
 
-- 💬 Ask me about **React, Nodejs, Nextjs, Python, Java, C++**
+- Ask me about **React, Nodejs, Nextjs, Python, Java, C++**
 
-- 📫 How to reach me **dongduong840@gmail.com**
+- How to reach me: **dongduong840@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-dong.vercel.app/](https://portfolio-dong.vercel.app/)**
+- All of my projects are available at: **[https://portfolio-dong.vercel.app/](https://portfolio-dong.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
