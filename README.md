@@ -2,8 +2,8 @@
 
 ### Software Engineer | Founder @[lab68dev](https://github.com/lab68dev)
 
-[![Organization](https://img.shields.io/badge/Organization-lab68dev-red)](https://github.com/lab68dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://brutalist-portfolio-dong.vercel.app/)
+[![Organization](https://img.shields.io/badge/Organization-lab68dev-blue)](https://github.com/lab68dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://portfolio-dong.vercel.app/)
 [![Email](https://img.shields.io/badge/Contact-dongduong840%40gmail.com-orange)](mailto:dongduong840@gmail.com)
 
 ---
@@ -20,6 +20,9 @@
 <p align="left">
   <a href="https://github.com/F4P1E" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="F4P1E" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/dương-phú-đông-820481147" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
