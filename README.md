@@ -1,6 +1,6 @@
 # Hi, I'm Duong Phu Dong
 
-### Software Engineer | Founder @ [lab68dev](https://github.com/lab68dev)
+### Software Engineer | Founder @[lab68dev](https://github.com/lab68dev)
 
 [![Organization](https://img.shields.io/badge/Organization-lab68dev-red)](https://github.com/lab68dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen)](https://brutalist-portfolio-dong.vercel.app/)
