@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **lab68dev-autopr**
 - 📚 I'm currently learning **Software Engineering: Process and Tools** & **Further Programming**
 - 💬 Ask me about **React, Node.js, Next.js, Python, Java, C++**
-- 🌐 All of my projects are available at: [**portfolio-dong.vercel.app**](https://portfolio-dong.vercel.app/)
+- 🌐 All of my projects are available at: [**brutalist-portfolio-dont.vercel.app**](https://brutalist-portfolio-dong.vercel.app/)
 - 📫 Reach me at **dongduong840@gmail.com**
 
 ---
