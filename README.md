@@ -12,7 +12,7 @@
 - I'm currently learning **Software Engineering: Process and Tools** & **Software Engineering: Architecture and Design**
 - Ask me about **React, Node.js, Next.js, Python, Java, C++**
 - All of my projects are available at: [**Duong Phu Dong Portfolio**](https://brutalist-portfolio-dong.vercel.app/)
-- Reach me at **dongduong840@gmail.com**
+- Reach me at: **dongduong840@gmail.com**
 
 ---
 
