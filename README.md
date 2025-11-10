@@ -34,14 +34,6 @@
   <img src="https://skillicons.dev/icons?i=firebase,flutter,figma,graphql,tensorflow,pytorch,scikitlearn,anaconda,opencv,jenkins,postman" />
 </p>
 
----
-
-### GitHub Stats
-![F4P1E's Stats](https://github-readme-stats.vercel.app/api?username=F4P1E&theme=default&show_icons=true&hide_border=true&count_private=true)
-![F4P1E's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F4P1E&theme=default&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ### About lab68dev
 **lab68dev** is a software development organization founded by **Duong Phu Dong**.  
 We focus on building innovative, cross-platform solutions using **React, Next.js, Java, Python, and C++**.  
