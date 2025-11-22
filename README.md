@@ -31,7 +31,7 @@
 ### Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,python,java,cpp,html,css,docker,git,mongodb,mysql,postgres,linux,spring,express" />
-  <img src="https://skillicons.dev/icons?i=firebase,flutter,figma,graphql,tensorflow,pytorch,scikitlearn,anaconda,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,flutter,figma,graphql,tensorflow,pytorch,anaconda,postman" />
 </p>
 
 ### About lab68dev
