@@ -148,7 +148,7 @@ A structured AI-assisted development workflow for improving productivity, code q
 | Patreon         | [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge\&logo=patreon\&logoColor=white)](https://www.patreon.com/cw/DongDuong2001)                      |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DongDuong2001/DongDuong2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DongDuong2001/DongDuong2001/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <a href="https://u8views.com/github/DongDuong2001">
