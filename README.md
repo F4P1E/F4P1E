@@ -147,6 +147,10 @@ A structured AI-assisted development workflow for improving productivity, code q
 | PayPal          | [![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/DDuong884)                                      |
 | Patreon         | [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge\&logo=patreon\&logoColor=white)](https://www.patreon.com/cw/DongDuong2001)                      |
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DongDuong2001/DongDuong2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <a href="https://u8views.com/github/DongDuong2001">
   <img src="https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Profile%20Views" />
 </a>
