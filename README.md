@@ -43,6 +43,7 @@ Software Engineering student at RMIT University Vietnam specializing in full-sta
   - System architecture
   - Backend engineering
   - Developer tooling
+  - DevOps
 
 ---
 
