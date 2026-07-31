@@ -138,6 +138,21 @@ A structured AI-assisted development workflow for improving productivity, code q
 
 ---
 
+### Fortify Kitchen
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fortifykitchen.vercel.app/)
+
+A production-ready meal-prep and healthy food delivery platform built collaboratively with [@haovu310](https://github.com/haovu310), enabling customers to order slow-cooked, high-protein meals for an active lifestyle.
+
+#### Highlights
+
+* Built responsive customer-facing ordering workflows
+* Optimized browsing and checkout experience
+* Applied clean, maintainable frontend architecture
+* Focused on accessibility, performance, and scalability
+
+---
+
 ## Open Source Sponsorship
 
 | Platform        | Badge                                                                                                                                                                       |
@@ -157,5 +172,5 @@ A structured AI-assisted development workflow for improving productivity, code q
 </a>
 
 <div align="right">
-  <sub>Last updated: 20 June 2026 · <b>Duong Phu Dong</b></sub>
+  <sub>Last updated: 31 July 2026 · <b>Duong Phu Dong</b></sub>
 </div>
