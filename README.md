@@ -20,7 +20,7 @@ Software Engineering student at RMIT University Vietnam specializing in full-sta
 | :------------------- | :----------------- |
 | Active role          | Technical Lead     |
 | Team size            | 4 developers       |
-| Maintained projects  | 3 active projects  |
+| Maintained projects  | 4 active projects  |
 | Core workflow        | 4-step PUDO system |
 | Technical domains    | 5 areas            |
 | Listed technologies  | 16 tools           |
