@@ -38,6 +38,7 @@ Software Engineering student at RMIT University Vietnam specializing in full-sta
   - lab68dev-platform
   - lab68cv-builder
   - PUDO Code System
+  - FortifyKitchen Website
 
 * **Exploring:**
   - System architecture
