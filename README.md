@@ -3,62 +3,61 @@
 </p>
 
 <p align="center">
-Software Engineering Student at RMIT Vietnam [Final Year]
+Software Engineering Student at RMIT Vietnam (Final Year)
 <br>
-Technical Lead • Full-Stack Developer • Open Source Maintainer
+Full-Stack Developer · Solution Architecture · Technical Lead
 </p>
 
 ## Professional Summary
 
-Software Engineering student at RMIT University Vietnam specializing in full-stack web development and backend engineering. Experienced in designing REST APIs, relational databases, authentication systems, and deployment pipelines using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Currently leading a four-developer Capstone team while maintaining several open-source projects.
+Final-year Software Engineering student at RMIT University Vietnam, with a focus on full-stack web development, backend engineering, and system design. Work includes REST API design, relational database modeling, authentication systems, and deployment pipelines, primarily using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Currently leading a four-developer Capstone team and maintaining several open-source projects.
 
 ---
 
 ## Engineering Snapshot
 
 | Metric               | Value              |
-| :------------------- | :----------------- |
-| Active role          | Technical Lead     |
-| Team size            | 4 developers       |
-| Maintained projects  | 4 active projects  |
-| Core workflow        | 4-step PUDO system |
-| Technical domains    | 5 areas            |
-| Listed technologies  | 16 tools           |
-| Academic focus areas | 3 subjects         |
+| :-------------------- | :----------------- |
+| Current role          | Technical Lead      |
+| Team size              | 4 developers        |
+| Maintained projects   | 4 active projects   |
+| Core workflow          | 4-step PUDO system  |
+| Technical domains      | 5 areas             |
+| Listed technologies    | 16 tools            |
+| Academic focus areas   | 3 subjects          |
 
 ---
 
 ## Current Focus
 
-#### Technical Lead for Capstone Projects A & B
+**Technical Lead, Capstone Projects A & B**
+Leading Project Luvcraft under Project Pluto.
 
-#### Leading Project Luvcraft under Project Pluto
+**Projects maintained**
+- lab68dev-platform
+- lab68cv-builder
+- PUDO Code System
+- FortifyKitchen Website
 
-* **Maintaining:**
-  - lab68dev-platform
-  - lab68cv-builder
-  - PUDO Code System
-  - FortifyKitchen Website
-
-* **Exploring:**
-  - System architecture
-  - Backend engineering
-  - Developer tooling
-  - DevOps
+**Areas of interest**
+- System architecture
+- Backend engineering
+- Developer tooling
+- DevOps
 
 ---
 
 ## Academic Focus
 
-* Capstone Project A & B
-* Engineering Management
-* Advanced Project Management
+- Capstone Project A & B
+- Engineering Management
+- Advanced Project Management
 
 ---
 
 ## Connect
 
-| Platform  | Badge                                                                                                                                                        |
+| Platform  | Link |
 | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | LinkedIn  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/duong-phu-dong/) |
 | Email     | [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dongduong840@gmail.com)                        |
@@ -70,110 +69,98 @@ Software Engineering student at RMIT University Vietnam specializing in full-sta
 
 ## Technical Expertise
 
-| Category                         | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| :------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming & Logic**          | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=white)                                                                                                           |
-| **Frontend Engineering**         | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter\&logoColor=white)                                                                                                               |
-| **Backend Systems**              | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge\&logo=springboot\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)                                                                                              |
-| **Database & Backend Platforms** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge\&logo=supabase\&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge\&logo=neon\&logoColor=white)                                                                                                        |
+| Category                         | Stack |
+| :-------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming & Logic**          | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=white) |
+| **Frontend Engineering**         | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter\&logoColor=white) |
+| **Backend Systems**              | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge\&logo=springboot\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=white) |
+| **Database & Backend Platforms** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge\&logo=supabase\&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge\&logo=neon\&logoColor=white) |
 | **DevOps & Infrastructure**      | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge\&logo=githubactions\&logoColor=white) |
 
 ---
 
-## Featured Projects - Actively Maintained
+## Projects
 
 ### lab68dev-platform
-
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68devplatform.vercel.app/)
 
-A modular development platform for extensible engineering workflows and maintainable system architecture.
+A modular development platform supporting extensible engineering workflows.
 
-#### Highlights
-
-* Designed a modular backend architecture
-* Applied containerized deployment strategies
-* Focused on scalability, maintainability, and clean engineering structure
+**Details**
+- Backend architecture designed around separate, replaceable modules
+- Deployed using containerized services
+- Built with an emphasis on maintainability and clear system structure
 
 ---
 
-### lab68cv builder
-
+### lab68cv-builder
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68cvbuilder.vercel.app/)
 
-A production-ready CV builder focused on usability, accessibility, and responsive user experience.
+A CV builder application focused on usability and accessibility.
 
-#### Highlights
-
-* Built responsive frontend architecture
-* Optimized rendering and interaction performance
-* Applied usability principles to improve accessibility
+**Details**
+- Responsive frontend architecture
+- Attention to rendering and interaction performance
+- Accessibility considerations applied throughout the UI
 
 ---
 
-### Pudo Code System
-
+### PUDO Code System
 [![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DongDuong2001/pudo-code-system)
 
-A structured AI-assisted development workflow for improving productivity, code quality, and development consistency.
+An AI-assisted development workflow intended to support consistency in software projects.
 
-#### Core Workflow
+**Core workflow**
+> PUDO = Plan → Understand → Develop → Optimize
 
-> **PUDO = Plan → Understand → Develop → Optimize**
+**Details**
+- A repeatable, 4-step engineering workflow
+- Combines AI-assisted tools with standard development practices
+- Designed for students, solo developers, and small teams
 
-#### Highlights
+---
 
-* Built a repeatable **4-step engineering workflow**
-* Combines AI tools with structured software development practices
-* Focuses on problem-solving, productivity, and engineering consistency
-* Designed for students, solo developers, and AI-assisted development
+### FortifyKitchen
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fortifykitchen.vercel.app/)
+
+A meal-prep and food delivery platform, built with [@haovu310](https://github.com/haovu310), for ordering slow-cooked, high-protein meals.
+
+**Details**
+- Customer-facing ordering workflows
+- Browsing and checkout flow implementation
+- Frontend architecture built for accessibility and performance
+
+---
+
+### Demuse
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://demuse-two.vercel.app/)
+
+A personal schedule and time-management platform, concept by [@mthutt](https://github.com/mthutt), built by [@DongDuong2001](https://github.com/DongDuong2001), for organizing classes, work shifts, meetings, and personal events.
+
+**Details**
+- Turned the original concept into a functioning web application
+- Schedule and event management workflows
+- Real-time countdowns for upcoming events
+- Automatic schedule conflict detection
+- Notification and reminder system
+- `.ics` calendar synchronization support
 
 ---
 
 ## Engineering Principles
 
-* Build simple systems before scaling them
-* Keep architecture readable and maintainable
-* Design APIs and databases around real user workflows
-* Use AI as an engineering assistant, not a replacement for fundamentals
-* Improve code quality through review, iteration, and documentation
-
----
-
-### Fortify Kitchen
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fortifykitchen.vercel.app/)
-
-A production-ready meal-prep and healthy food delivery platform built collaboratively with [@haovu310](https://github.com/haovu310), enabling customers to order slow-cooked, high-protein meals for an active lifestyle.
-
-#### Highlights
-
-* Built responsive customer-facing ordering workflows
-* Optimized browsing and checkout experience
-* Applied clean, maintainable frontend architecture
-* Focused on accessibility, performance, and scalability
-
-### Demuse
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://demuse-two.vercel.app/)
-
-A personal schedule and time-management platform, originally conceived by [@mthutt](https://github.com/mthutt) and built by [@DongDuong2001](https://github.com/DongDuong2001), designed to help users organize classes, work shifts, meetings, and personal events in one place.
-
-#### Highlights
-
-* Translated the original product concept into a fully functional web application
-* Built responsive schedule and event management workflows
-* Implemented real-time countdowns for upcoming events
-* Added automatic schedule conflict detection
-* Integrated notifications and reminders
-* Supported `.ics` calendar synchronization
-* Focused on usability, performance, and maintainable frontend architecture
+- Build simple systems before scaling them
+- Keep architecture readable and maintainable
+- Design APIs and databases around actual user workflows
+- Use AI as an engineering assistant, not a replacement for fundamentals
+- Improve code quality through review, iteration, and documentation
 
 ---
 
 ## Open Source Sponsorship
 
-| Platform        | Badge                                                                                                                                                                       |
-| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Platform        | Link |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GitHub Sponsors | [![Sponsor GitHub](https://img.shields.io/badge/Sponsor_GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sponsors/DongDuong2001)        |
 | Ko-fi           | [![Support Ko-fi](https://img.shields.io/badge/Support_Kofi-000000?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/dongphuduong)                       |
 | Buy Me a Coffee | [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=white)](https://www.buymeacoffee.com/lab68dev) |
@@ -189,5 +176,5 @@ A personal schedule and time-management platform, originally conceived by [@mthu
 </a>
 
 <div align="right">
-  <sub>Last updated: 31 July 2026 · <b>Duong Phu Dong</b></sub>
+  <sub>Last updated: 17 August 2026 · <b>Duong Phu Dong</b></sub>
 </div>
