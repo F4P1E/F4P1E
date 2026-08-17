@@ -152,6 +152,22 @@ A production-ready meal-prep and healthy food delivery platform built collaborat
 * Applied clean, maintainable frontend architecture
 * Focused on accessibility, performance, and scalability
 
+### Demuse
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://demuse-two.vercel.app/)
+
+A personal schedule and time-management platform designed to help users organize classes, work shifts, meetings, and personal events with real-time scheduling and calendar management.
+
+#### Highlights
+
+* Built responsive schedule management workflows
+* Implemented real-time countdowns for upcoming events
+* Added automatic schedule conflict detection
+* Integrated notifications and reminders
+* Supported `.ics` calendar synchronization
+* Focused on usability, performance, and maintainable frontend architecture
+
+
 ---
 
 ## Open Source Sponsorship
