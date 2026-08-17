@@ -2,12 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Duong%20Phu%20Dong&fontSize=55&fontColor=ffffff&color=0:000000,100:333333"/>
 </p>
 
-<p align="center">
-Software Engineering Student at RMIT Vietnam (Final Year)
-<br>
-Full-Stack Developer · Solution Architecture · Technical Lead
-</p>
-
 ## Professional Summary
 
 Final-year Software Engineering student at RMIT University Vietnam, with a focus on full-stack web development, backend engineering, and system design. Work includes REST API design, relational database modeling, authentication systems, and deployment pipelines, primarily using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Currently leading a four-developer Capstone team and maintaining several open-source projects.
@@ -174,6 +168,8 @@ A personal schedule and time-management platform, concept by [@mthutt](https://g
 <a href="https://u8views.com/github/DongDuong2001">
   <img src="https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Profile%20Views" />
 </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:333333,100:000000&section=footer"/>
 
 <div align="right">
   <sub>Last updated: 17 August 2026 · <b>Duong Phu Dong</b></sub>
