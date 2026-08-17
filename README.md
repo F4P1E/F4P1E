@@ -156,17 +156,17 @@ A production-ready meal-prep and healthy food delivery platform built collaborat
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://demuse-two.vercel.app/)
 
-A personal schedule and time-management platform designed to help users organize classes, work shifts, meetings, and personal events with real-time scheduling and calendar management.
+A personal schedule and time-management platform, originally conceived by [@mthutt](https://github.com/mthutt) and built by [@DongDuong2001](https://github.com/DongDuong2001), designed to help users organize classes, work shifts, meetings, and personal events in one place.
 
 #### Highlights
 
-* Built responsive schedule management workflows
+* Translated the original product concept into a fully functional web application
+* Built responsive schedule and event management workflows
 * Implemented real-time countdowns for upcoming events
 * Added automatic schedule conflict detection
 * Integrated notifications and reminders
 * Supported `.ics` calendar synchronization
 * Focused on usability, performance, and maintainable frontend architecture
-
 
 ---
 
