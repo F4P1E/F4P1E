@@ -10,18 +10,16 @@ Final-year Software Engineering student at RMIT University Vietnam, with a focus
 
 ## Engineering Snapshot
 
-| Metric               | Value              |
-| :-------------------- | :----------------- |
-| Current role          | Technical Lead      |
-| Team size              | 4 developers        |
-| Maintained projects   | 4 active projects   |
-| Core workflow          | 4-step PUDO system  |
-| Technical domains      | 5 areas             |
-| Listed technologies    | 16 tools            |
-| Academic focus areas   | 3 subjects          |
-
+| Metric               | Value |
+| :-------------------- | :---- |
+| Current role          | ![Role](https://img.shields.io/badge/Full--stack%20Developer%20%2F%20Technical%20Lead-000000?style=for-the-badge) |
+| Team size              | ![Team](https://img.shields.io/badge/4%20Developers-000000?style=for-the-badge) |
+| Maintained projects   | ![Projects](https://img.shields.io/badge/4%20Active%20Projects-000000?style=for-the-badge) |
+| Core workflow          | ![Workflow](https://img.shields.io/badge/PUDO%20(4--Step%20System)-000000?style=for-the-badge) |
+| Technical domains      | ![Domains](https://img.shields.io/badge/5%20Areas-000000?style=for-the-badge) |
+| Listed technologies    | ![Tech](https://img.shields.io/badge/16%20Tools-000000?style=for-the-badge) |
+| Academic focus areas   | ![Academic](https://img.shields.io/badge/3%20Subjects-000000?style=for-the-badge) |
 ---
-
 ## Current Focus
 
 **Technical Lead, Capstone Projects A & B**
