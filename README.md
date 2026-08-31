@@ -12,7 +12,7 @@ Final-year Software Engineering student at RMIT University Vietnam, with a focus
 
 | Metric               | Value |
 | :-------------------- | :---- |
-| Current role          | ![Role](https://img.shields.io/badge/Full--stack%20Developer%20%2F%20Technical%20Lead-000000?style=for-the-badge) |
+| Current role          | ![Role](https://img.shields.io/badge/Full--stack%20Developer-000000?style=for-the-badge) |
 | Team size              | ![Team](https://img.shields.io/badge/4%20Developers-000000?style=for-the-badge) |
 | Maintained projects   | ![Projects](https://img.shields.io/badge/4%20Active%20Projects-000000?style=for-the-badge) |
 | Core workflow          | ![Workflow](https://img.shields.io/badge/PUDO%20(4--Step%20System)-000000?style=for-the-badge) |
